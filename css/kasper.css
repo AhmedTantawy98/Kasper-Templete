@@ -467,6 +467,14 @@ header nav .search i{
     text-transform: uppercase;
     margin: 0 0 30px;
 }
+@media (max-width: 767px) {
+    .video .text {
+        padding: 15px;
+    }
+    .video .text h2 {
+        font-size: 20px;
+    }
+}
 .video .text p{
     margin: 0 0 30px;
 }
